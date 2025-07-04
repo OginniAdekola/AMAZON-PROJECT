@@ -16,8 +16,6 @@
      - Syncwire LTG to USB Cable for Fast Charging Compatible with Phone 5/ 5C/ 5S/ 6/ 6S/ 7/8/ X/XR/XS Max/ 11/12/ 13 Series and Pad Air/Mini, Pod & Other Devices (1.1 Meter, White)
      - REDTECH USB-C to Lightning Cable 3.3FT, [Apple MFi Certified] Lightning to Type C Fast Charging Cord Compatible with iPhone 14/13/13 pro/Max/12/11/X/XS/XR/8, Supports Power Delivery - White
      - Amazon Basics Wireless Mouse | 2.4 GHz Connection, 1600 DPI | Type - C Adapter | Upto 12 Months of Battery Life | Ambidextrous Design | Suitable for PC/Mac/Laptop
-     - Swiffer Instant Electric Water Heater Faucet Tap Home-Kitchen Instantaneous Water Heater Tank less for Tap, LED Electric Head Water Heaters Tail Gallon Comfort(3000W) ((Pack of 1))
-     - Oratech Coffee Frother electric, milk frother electric, coffee beater, cappuccino maker, Coffee Foamer, Mocktail Mixer, Coffee Foam Maker, coffee whisker electric, Froth Maker, coffee stirrers electric, coffee frothers, Coffee Blender, (6 Month Warranty) (Multicolour)
        
 5.	What is the average actual price vs the discounted price by category?
    - Ans:  Discounted Price (3,125.31) vs Actual Price (5,353.15)
@@ -50,9 +48,17 @@
      - Ans:
        ![image](https://github.com/user-attachments/assets/03f6c8d1-c9bd-4c93-be9e-0c7cc8e3d67e)
  
-
 12.	How many products have fewer than 1,000 reviews? 
     - Ans:15 Products
 
-   
-  
+13.	Which categories have products with the highest discounts?
+    - Ans: Computers&Accessories|Accessories&Peripherals|Adapters|USBtoUSBAdapters
+
+14.	Identify the top 5 products in terms of rating and number of reviews combined.
+    - Ans:
+       - AmazonBasics Flexible Premium HDMI Cable (Black, 4K@60Hz, 18Gbps), 3-Foot
+       - Amazon Basics High-Speed HDMI Cable, 6 Feet - Supports Ethernet, 3D, 4K video,Black
+       - Amazon Basics High-Speed HDMI Cable, 6 Feet (2-Pack),Black
+       - AmazonBasics Flexible Premium HDMI Cable (Black, 4K@60Hz, 18Gbps), 3-Foot
+       - boAt Bassheads 100 in Ear Wired Earphones with Mic(Taffy Pink)
+
